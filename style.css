@@ -21,7 +21,7 @@ body{
     display: block;
     block-size: 6em;
     box-shadow: black 0px 2px 20px 8px;
-    padding: 1em;
+    padding: 1.5em;
     border-bottom-left-radius: 1em;
     border-bottom-right-radius: 1em;
     background-color: rgba(0, 0, 0, 0.8);
@@ -43,8 +43,7 @@ h3{
 header{
     margin-top: 3em;
     text-align: center;
-    display: flex;
-    flex-direction: column;
+    display: inline-block;
     align-items: center;
 
 }
